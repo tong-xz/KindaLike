@@ -1,3 +1,4 @@
-./data/yelp_dataset
-./data/yelp_dataset
+yelp_dataset
+yelp_photos
 *.idea
+*.vscode
